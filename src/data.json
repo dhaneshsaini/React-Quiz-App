@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Hyperlinking Text Management Language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": [
+            "<css>",
+            "<script>",
+            "<style>",
+            "<link>"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "options": [
+            "text-color",
+            "color",
+            "fgcolor",
+            "font-color"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the correct syntax to add a background color in CSS?",
+        "options": [
+            "color: background red;",
+            "bgcolor: red;",
+            "background: red;",
+            "background-color: red;"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "options": [
+            "Microsoft",
+            "Sun Microsystems",
+            "Netscape",
+            "IBM"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How can you add a comment in JavaScript?",
+        "options": [
+            "'This is a comment",
+            "<!-- This is a comment -->",
+            "** This is a comment **",
+            "// This is a comment"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which method is used to round a number to the nearest integer in JavaScript?",
+        "options": [
+            "Math.round()",
+            "Math.ceil()",
+            "Math.floor()",
+            "Math.rnd()"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+        "options": [
+            "<script href='app.js'></script>",
+            "<script src='app.js'></script>",
+            "<script ref='app.js'></script>",
+            "<script name='app.js'></script>"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is a React component?",
+        "options": [
+            "A function or class that optionally accepts input and returns a React element",
+            "A style sheet in React",
+            "A library for managing state in React",
+            "A plugin for browser compatibility in React"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which method in React component is called after the component is rendered for the first time?",
+        "options": [
+            "componentWillMount",
+            "componentDidUpdate",
+            "componentWillUpdate",
+            "componentDidMount"
+        ],
+        "answer": 3
+    }
+]
