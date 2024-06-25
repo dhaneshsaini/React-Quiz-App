@@ -1,4 +1,4 @@
 # React Quiz App
 
 ### screenshot
-![React Quiz App](./public/screenshot.png)
+<img alt='React Quiz App' height='300' src='./public/screenshot.png' />
